@@ -1,0 +1,13 @@
+{
+  "name": "yaml",
+  "description": "A yaml loader for hyperimport.",
+  "author": "tr1ckydev",
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.8",
+    "bun-types": "latest",
+    "hyperimport": "latest"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}

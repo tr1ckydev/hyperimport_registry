@@ -1,0 +1,9 @@
+{
+  "name": "hyperimport_registry",
+  "description": "The public registry for hyperimport packages.",
+  "author": "tr1ckydev",
+  "license": "MIT",
+  "devDependencies": {
+    "bun-types": "latest"
+  }
+}
